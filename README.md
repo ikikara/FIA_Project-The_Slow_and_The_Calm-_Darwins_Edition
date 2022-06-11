@@ -24,6 +24,7 @@ Consists in develop and test adaptive agents using different elements like: oper
 You have one way to run this project:
 1. Unity:
     * Download the folder "#unity_folder"
+    * There will be a zip called *Project.zip*, extract the files
     * Open the Unity and choose to open a folder, select the folder where you have the files<br>
         ![image](https://i.imgur.com/2qwEgI7.png)
     * Choose the scene that you want to run (GapRoad or HillRoad)<br>
