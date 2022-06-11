@@ -38,6 +38,6 @@ You have one way to run this project:
    - Original owner: https://diegogiacomelli.com.br/GeneticSharp-Car2D/
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/ikikara) 
 - [Alexandre van Velze](https://github.com/alex6458)
 - [Sofia Botelho](https://github.com/sbalves)
