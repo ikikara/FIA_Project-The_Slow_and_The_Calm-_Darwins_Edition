@@ -13,7 +13,7 @@ This was the 2nd project developed for Artificial Intelligence Fundamentals subj
 Consists in develop and test adaptive agents using different elements like: operators (mutation and crossover), agent selection and elitism
 
 #### Main Languages:
-![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=732FFA)
+![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 
 ## Technologies used:
 1. Unity
